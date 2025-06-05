@@ -3,6 +3,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/sangaprashanth/Modern-Snake-Game-with-Burger-Food)
 ![GitHub stars](https://img.shields.io/github/stars/sangaprashanth/Modern-Snake-Game-with-Burger-Food?style=social)
 ![Made with HTML](https://img.shields.io/badge/Made%20with-HTML-orange)
+![Made with CSS](https://img.shields.io/badge/Made%20with-CSS-voilet)
 ![Made with JavaScript](https://img.shields.io/badge/Made%20with-JavaScript-yellow)
 
 A classic Snake game built using **HTML**, **CSS**, and **JavaScript**, co-developed with the help of **Claude AI** as part of the **#7DaysOfAICoding** challenge.
