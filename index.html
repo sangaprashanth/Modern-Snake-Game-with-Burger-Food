@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Snake Game</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="game-container">
+        <h1>🐍 Snake Game</h1>
+        <div class="score">Score: <span id="score">0</span></div>
+        
+        <canvas id="gameCanvas" width="400" height="400"></canvas>
+        
+        <div class="controls">
+            <button id="startBtn" class="start-btn">🚀 Start Game</button>
+        </div>
+
+        <!-- Mobile Controls -->
+        <div class="mobile-controls">
+            <button id="upBtn" class="mobile-btn">⬆️</button>
+            <button id="leftBtn" class="mobile-btn">⬅️</button>
+            <button id="rightBtn" class="mobile-btn">➡️</button>
+            <button id="downBtn" class="mobile-btn">⬇️</button>
+        </div>
+
+        <div class="instructions">
+            <strong>🎮 How to Play:</strong><br>
+            Desktop: Use arrow keys or WASD to move<br>
+            Mobile: Use the control buttons above<br>
+            Press SPACE to start moving in a random direction<br>
+            Eat 🍔 burgers to grow and increase your score!
+        </div>
+    </div>
+
+    <!-- Game Over Modal -->
+    <div id="gameOverModal" class="modal">
+        <div class="modal-content">
+            <h2>🎯 Game Over!</h2>
+            <p>Your Score: <span id="finalScore">0</span></p>
+            <button id="newGameBtn" class="new-game-btn">🎮 Play Again</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
