@@ -34,4 +34,14 @@ This project showcases the synergy between human logic and AI assistance. Using 
 
 
 
+## 🤝 Let's Connect
+**GitHub:** [sangaprashanth](https://github.com/sangaprashanth)
+
+**LinkedIn:** [Prashanth Sanga](https://www.linkedin.com/in/prashanthsanga/)
+
+
+## 📄 License
+This project is licensed under the **MIT License.**
+
+
 
